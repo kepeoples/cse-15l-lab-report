@@ -5,9 +5,11 @@ This tutorial will teach you the way to log into a course-specific account on **
 
 **Step1: Installing VScode**\
 Visual Studio Code aka VScode is a code editor redefined and optimized for building and debugging modern web and cloud applications.\
-Click on the given link to install VScode.\
-[Download VScode](https://code.visualstudio.com/Download)\
-After installation, open VScode and your screen should look like the image shown below.\
+Click on the given link to install VScode: 
+[Download VScode](https://code.visualstudio.com/Download). 
+After you visit the link,choose the suitable download option according to your OS.\
+After installation is complete, open VScode and your screen should look like the image shown below.\
+![Image](VSCODE.png)
 **Step2: Remotely Connecting**\
 **Step3: Getting to know some commands**\
 **Step4: Trying some commands**\
