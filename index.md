@@ -11,9 +11,19 @@ After you visit the link,choose the suitable download option according to your O
 After installation is complete, open VScode and your screen should look like the image shown below.\
 ![Image](VSCODE.png)
 **Step2: Remotely Connecting**\
+First of all you need to install **Git** by clicking on the link. 
+You can also open the terminal on VScode which you just installed. Refer the following image
+![Image](VScodeT.png)
+After connecting to the remote servers, your terminal should look like the image below :)
+![Image](Pic2.png)
 **Step3: Getting to know some commands**\
+Following are some important commands which you can either execute on your system or on the remote system.
+
 **Step4: Trying some commands**\
-**Step5**
+After executing these commands, your terminal should look like this :
+![Image](Pic3.png)
+You can look up for some more commands by clicking in the given link and try them out in your own!.
+
 
 
 
